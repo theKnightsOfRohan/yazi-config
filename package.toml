@@ -8,6 +8,11 @@ use = "boydaihungst/mediainfo"
 rev = "49f5ab7"
 hash = "6e3b5e58f985cc2d625e0030dc35b1b2"
 
+[[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "be524fb"
+hash = "88e56a64b7ce7c4314427452343fef17"
+
 [[flavor.deps]]
 use = "marcosvnmelo/kanagawa-dragon"
 rev = "b9541e8"
